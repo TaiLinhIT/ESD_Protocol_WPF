@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\MyProject\\HAN\\ESD_Protocol_WPF\\src\\ESD.Infrastructure\\ESD.Infrastructure.csproj": {}
+    "D:\\project\\Han\\ESD_Protocol_WPF\\src\\ESD.Infrastructure\\ESD.Infrastructure.csproj": {}
   },
   "projects": {
-    "E:\\MyProject\\HAN\\ESD_Protocol_WPF\\src\\ESD.Infrastructure\\ESD.Infrastructure.csproj": {
+    "D:\\project\\Han\\ESD_Protocol_WPF\\src\\ESD.Infrastructure\\ESD.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\MyProject\\HAN\\ESD_Protocol_WPF\\src\\ESD.Infrastructure\\ESD.Infrastructure.csproj",
+        "projectUniqueName": "D:\\project\\Han\\ESD_Protocol_WPF\\src\\ESD.Infrastructure\\ESD.Infrastructure.csproj",
         "projectName": "ESD.Infrastructure",
-        "projectPath": "E:\\MyProject\\HAN\\ESD_Protocol_WPF\\src\\ESD.Infrastructure\\ESD.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "E:\\MyProject\\HAN\\ESD_Protocol_WPF\\src\\ESD.Infrastructure\\obj\\",
+        "projectPath": "D:\\project\\Han\\ESD_Protocol_WPF\\src\\ESD.Infrastructure\\ESD.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\antnguyen\\.nuget\\packages\\",
+        "outputPath": "D:\\project\\Han\\ESD_Protocol_WPF\\src\\ESD.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\antnguyen\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -34,8 +34,8 @@
             "framework": "net8.0-windows7.0",
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "E:\\MyProject\\HAN\\ESD_Protocol_WPF\\src\\ESD.Protocol\\ESD.Protocol.csproj": {
-                "projectPath": "E:\\MyProject\\HAN\\ESD_Protocol_WPF\\src\\ESD.Protocol\\ESD.Protocol.csproj"
+              "D:\\project\\Han\\ESD_Protocol_WPF\\src\\ESD.Protocol\\ESD.Protocol.csproj": {
+                "projectPath": "D:\\project\\Han\\ESD_Protocol_WPF\\src\\ESD.Protocol\\ESD.Protocol.csproj"
               }
             }
           }
@@ -82,20 +82,20 @@
         }
       }
     },
-    "E:\\MyProject\\HAN\\ESD_Protocol_WPF\\src\\ESD.Protocol\\ESD.Protocol.csproj": {
+    "D:\\project\\Han\\ESD_Protocol_WPF\\src\\ESD.Protocol\\ESD.Protocol.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\MyProject\\HAN\\ESD_Protocol_WPF\\src\\ESD.Protocol\\ESD.Protocol.csproj",
+        "projectUniqueName": "D:\\project\\Han\\ESD_Protocol_WPF\\src\\ESD.Protocol\\ESD.Protocol.csproj",
         "projectName": "ESD.Protocol",
-        "projectPath": "E:\\MyProject\\HAN\\ESD_Protocol_WPF\\src\\ESD.Protocol\\ESD.Protocol.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "E:\\MyProject\\HAN\\ESD_Protocol_WPF\\src\\ESD.Protocol\\obj\\",
+        "projectPath": "D:\\project\\Han\\ESD_Protocol_WPF\\src\\ESD.Protocol\\ESD.Protocol.csproj",
+        "packagesPath": "C:\\Users\\antnguyen\\.nuget\\packages\\",
+        "outputPath": "D:\\project\\Han\\ESD_Protocol_WPF\\src\\ESD.Protocol\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\antnguyen\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

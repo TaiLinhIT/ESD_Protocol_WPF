@@ -1,9 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\MyProject\\HAN\\ESD_Protocol_WPF\\",
+  "WorkspaceRootPath": "D:\\project\\Han\\ESD_Protocol_WPF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|src\\ESD.Wpf\\ESD.Wpf.csproj|e:\\myproject\\han\\esd_protocol_wpf\\src\\esd.wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|src\\ESD.Wpf\\ESD.Wpf.csproj|d:\\project\\han\\esd_protocol_wpf\\src\\esd.wpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|src\\ESD.Wpf\\ESD.Wpf.csproj|solutionrelative:src\\esd.wpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|src\\ESD.Wpf\\ESD.Wpf.csproj|d:\\project\\han\\esd_protocol_wpf\\src\\esd.wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|src\\ESD.Wpf\\ESD.Wpf.csproj|solutionrelative:src\\esd.wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|src\\ESD.Wpf\\ESD.Wpf.csproj|d:\\project\\han\\esd_protocol_wpf\\src\\esd.wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|src\\ESD.Wpf\\ESD.Wpf.csproj|solutionrelative:src\\esd.wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|src\\ESD.Wpf\\ESD.Wpf.csproj|d:\\project\\han\\esd_protocol_wpf\\src\\esd.wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|src\\ESD.Wpf\\ESD.Wpf.csproj|solutionrelative:src\\esd.wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -14,27 +26,53 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\project\\Han\\ESD_Protocol_WPF\\src\\ESD.Wpf\\App.xaml.cs",
+              "RelativeDocumentMoniker": "src\\ESD.Wpf\\App.xaml.cs",
+              "ToolTip": "D:\\project\\Han\\ESD_Protocol_WPF\\src\\ESD.Wpf\\App.xaml.cs",
+              "RelativeToolTip": "src\\ESD.Wpf\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T05:33:17.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\project\\Han\\ESD_Protocol_WPF\\src\\ESD.Wpf\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "src\\ESD.Wpf\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\project\\Han\\ESD_Protocol_WPF\\src\\ESD.Wpf\\MainWindow.xaml.cs",
+              "RelativeToolTip": "src\\ESD.Wpf\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T05:33:44.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\project\\Han\\ESD_Protocol_WPF\\src\\ESD.Wpf\\App.xaml",
+              "RelativeDocumentMoniker": "src\\ESD.Wpf\\App.xaml",
+              "ToolTip": "D:\\project\\Han\\ESD_Protocol_WPF\\src\\ESD.Wpf\\App.xaml",
+              "RelativeToolTip": "src\\ESD.Wpf\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-07T05:30:23.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "E:\\MyProject\\HAN\\ESD_Protocol_WPF\\src\\ESD.Wpf\\MainWindow.xaml",
+              "DocumentMoniker": "D:\\project\\Han\\ESD_Protocol_WPF\\src\\ESD.Wpf\\MainWindow.xaml",
               "RelativeDocumentMoniker": "src\\ESD.Wpf\\MainWindow.xaml",
-              "ToolTip": "E:\\MyProject\\HAN\\ESD_Protocol_WPF\\src\\ESD.Wpf\\MainWindow.xaml",
+              "ToolTip": "D:\\project\\Han\\ESD_Protocol_WPF\\src\\ESD.Wpf\\MainWindow.xaml",
               "RelativeToolTip": "src\\ESD.Wpf\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-10-06T13:49:50.771Z",

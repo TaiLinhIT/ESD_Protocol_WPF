@@ -268,23 +268,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {},
+    "C:\\Users\\antnguyen\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\MyProject\\HAN\\ESD_Protocol_WPF\\src\\ESD.Wpf\\ESD.Wpf.csproj",
+      "projectUniqueName": "D:\\project\\Han\\ESD_Protocol_WPF\\src\\ESD.Wpf\\ESD.Wpf.csproj",
       "projectName": "ESD.Wpf",
-      "projectPath": "E:\\MyProject\\HAN\\ESD_Protocol_WPF\\src\\ESD.Wpf\\ESD.Wpf.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "E:\\MyProject\\HAN\\ESD_Protocol_WPF\\src\\ESD.Wpf\\obj\\",
+      "projectPath": "D:\\project\\Han\\ESD_Protocol_WPF\\src\\ESD.Wpf\\ESD.Wpf.csproj",
+      "packagesPath": "C:\\Users\\antnguyen\\.nuget\\packages\\",
+      "outputPath": "D:\\project\\Han\\ESD_Protocol_WPF\\src\\ESD.Wpf\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\antnguyen\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -301,11 +301,11 @@
           "framework": "net8.0-windows7.0",
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "E:\\MyProject\\HAN\\ESD_Protocol_WPF\\src\\ESD.Infrastructure\\ESD.Infrastructure.csproj": {
-              "projectPath": "E:\\MyProject\\HAN\\ESD_Protocol_WPF\\src\\ESD.Infrastructure\\ESD.Infrastructure.csproj"
+            "D:\\project\\Han\\ESD_Protocol_WPF\\src\\ESD.Infrastructure\\ESD.Infrastructure.csproj": {
+              "projectPath": "D:\\project\\Han\\ESD_Protocol_WPF\\src\\ESD.Infrastructure\\ESD.Infrastructure.csproj"
             },
-            "E:\\MyProject\\HAN\\ESD_Protocol_WPF\\src\\ESD.Protocol\\ESD.Protocol.csproj": {
-              "projectPath": "E:\\MyProject\\HAN\\ESD_Protocol_WPF\\src\\ESD.Protocol\\ESD.Protocol.csproj"
+            "D:\\project\\Han\\ESD_Protocol_WPF\\src\\ESD.Protocol\\ESD.Protocol.csproj": {
+              "projectPath": "D:\\project\\Han\\ESD_Protocol_WPF\\src\\ESD.Protocol\\ESD.Protocol.csproj"
             }
           }
         }

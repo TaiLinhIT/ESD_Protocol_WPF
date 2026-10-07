@@ -9,3 +9,16 @@ E:\MyProject\HAN\ESD_Protocol_WPF\src\ESD.Protocol\obj\Debug\net8.0\ESD.Protocol
 E:\MyProject\HAN\ESD_Protocol_WPF\src\ESD.Protocol\obj\Debug\net8.0\refint\ESD.Protocol.dll
 E:\MyProject\HAN\ESD_Protocol_WPF\src\ESD.Protocol\obj\Debug\net8.0\ESD.Protocol.pdb
 E:\MyProject\HAN\ESD_Protocol_WPF\src\ESD.Protocol\obj\Debug\net8.0\ref\ESD.Protocol.dll
+D:\project\Han\ESD_Protocol_WPF\src\ESD.Protocol\bin\Debug\net8.0\ESD.Protocol.deps.json
+D:\project\Han\ESD_Protocol_WPF\src\ESD.Protocol\bin\Debug\net8.0\ESD.Protocol.dll
+D:\project\Han\ESD_Protocol_WPF\src\ESD.Protocol\bin\Debug\net8.0\ESD.Protocol.pdb
+D:\project\Han\ESD_Protocol_WPF\src\ESD.Protocol\obj\Debug\net8.0\ESD.Protocol.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\Han\ESD_Protocol_WPF\src\ESD.Protocol\obj\Debug\net8.0\ESD.Protocol.AssemblyInfoInputs.cache
+D:\project\Han\ESD_Protocol_WPF\src\ESD.Protocol\obj\Debug\net8.0\ESD.Protocol.AssemblyInfo.cs
+D:\project\Han\ESD_Protocol_WPF\src\ESD.Protocol\obj\Debug\net8.0\ESD.Protocol.csproj.CoreCompileInputs.cache
+D:\project\Han\ESD_Protocol_WPF\src\ESD.Protocol\obj\Debug\net8.0\ESD.Protocol.sourcelink.json
+D:\project\Han\ESD_Protocol_WPF\src\ESD.Protocol\obj\Debug\net8.0\ESD.Protocol.dll
+D:\project\Han\ESD_Protocol_WPF\src\ESD.Protocol\obj\Debug\net8.0\refint\ESD.Protocol.dll
+D:\project\Han\ESD_Protocol_WPF\src\ESD.Protocol\obj\Debug\net8.0\ESD.Protocol.pdb
+D:\project\Han\ESD_Protocol_WPF\src\ESD.Protocol\obj\Debug\net8.0\ref\ESD.Protocol.dll
+D:\project\Han\ESD_Protocol_WPF\src\ESD.Protocol\obj\Debug\net8.0\ESD.Prot.584B0B07.Up2Date
