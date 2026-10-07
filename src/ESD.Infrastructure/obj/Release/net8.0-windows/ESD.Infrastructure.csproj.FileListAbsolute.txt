@@ -1,0 +1,15 @@
+E:\MyProject\HAN\ESD_Protocol_WPF\src\ESD.Infrastructure\bin\Release\net8.0-windows\ESD.Infrastructure.deps.json
+E:\MyProject\HAN\ESD_Protocol_WPF\src\ESD.Infrastructure\bin\Release\net8.0-windows\ESD.Infrastructure.dll
+E:\MyProject\HAN\ESD_Protocol_WPF\src\ESD.Infrastructure\bin\Release\net8.0-windows\ESD.Infrastructure.pdb
+E:\MyProject\HAN\ESD_Protocol_WPF\src\ESD.Infrastructure\bin\Release\net8.0-windows\ESD.Protocol.dll
+E:\MyProject\HAN\ESD_Protocol_WPF\src\ESD.Infrastructure\bin\Release\net8.0-windows\ESD.Protocol.pdb
+E:\MyProject\HAN\ESD_Protocol_WPF\src\ESD.Infrastructure\obj\Release\net8.0-windows\ESD.Infrastructure.csproj.AssemblyReference.cache
+E:\MyProject\HAN\ESD_Protocol_WPF\src\ESD.Infrastructure\obj\Release\net8.0-windows\ESD.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyProject\HAN\ESD_Protocol_WPF\src\ESD.Infrastructure\obj\Release\net8.0-windows\ESD.Infrastructure.AssemblyInfoInputs.cache
+E:\MyProject\HAN\ESD_Protocol_WPF\src\ESD.Infrastructure\obj\Release\net8.0-windows\ESD.Infrastructure.AssemblyInfo.cs
+E:\MyProject\HAN\ESD_Protocol_WPF\src\ESD.Infrastructure\obj\Release\net8.0-windows\ESD.Infrastructure.csproj.CoreCompileInputs.cache
+E:\MyProject\HAN\ESD_Protocol_WPF\src\ESD.Infrastructure\obj\Release\net8.0-windows\ESD.Infr.71C96829.Up2Date
+E:\MyProject\HAN\ESD_Protocol_WPF\src\ESD.Infrastructure\obj\Release\net8.0-windows\ESD.Infrastructure.dll
+E:\MyProject\HAN\ESD_Protocol_WPF\src\ESD.Infrastructure\obj\Release\net8.0-windows\refint\ESD.Infrastructure.dll
+E:\MyProject\HAN\ESD_Protocol_WPF\src\ESD.Infrastructure\obj\Release\net8.0-windows\ESD.Infrastructure.pdb
+E:\MyProject\HAN\ESD_Protocol_WPF\src\ESD.Infrastructure\obj\Release\net8.0-windows\ref\ESD.Infrastructure.dll
